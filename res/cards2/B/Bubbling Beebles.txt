@@ -1,0 +1,9 @@
+Name:Bubbling Beebles
+Mana Cost:{4}{U}
+Supertypes:
+Types:Creature 
+Subtypes:Beeble 
+Colors:Blue 
+OracleText:Bubbling Beebles can't be blocked as long as defending player controls an enchantment.
+Power:3
+Toughness:3

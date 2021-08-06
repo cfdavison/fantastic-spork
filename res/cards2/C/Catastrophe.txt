@@ -1,0 +1,9 @@
+Name:Catastrophe
+Mana Cost:{4}{W}{W}
+Supertypes:
+Types:Sorcery 
+Subtypes:
+Colors:White 
+OracleText:Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.
+Power:null
+Toughness:null

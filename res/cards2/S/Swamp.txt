@@ -1,0 +1,9 @@
+Name:Swamp
+Mana Cost:
+Supertypes:Basic 
+Types:Land 
+Subtypes:Swamp 
+Colors:Colorless 
+OracleText:({T}: Add {B}.)
+Power:null
+Toughness:null

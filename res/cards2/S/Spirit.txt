@@ -1,0 +1,9 @@
+Name:Spirit
+Mana Cost:
+Supertypes:
+Types:Creature 
+Subtypes:Spirit 
+Colors:White 
+OracleText:Flying
+Power:1
+Toughness:1

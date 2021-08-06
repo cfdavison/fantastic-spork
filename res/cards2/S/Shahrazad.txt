@@ -1,0 +1,9 @@
+Name:Shahrazad
+Mana Cost:{W}{W}
+Supertypes:
+Types:Sorcery 
+Subtypes:
+Colors:White 
+OracleText:Players play a Magic subgame, using their libraries as their decks. Each player who doesn't win the subgame loses half their life, rounded up.
+Power:null
+Toughness:null

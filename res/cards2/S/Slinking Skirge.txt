@@ -1,0 +1,9 @@
+Name:Slinking Skirge
+Mana Cost:{3}{B}
+Supertypes:
+Types:Creature 
+Subtypes:Phyrexian Imp 
+Colors:Black 
+OracleText:Flying\n{2}, Sacrifice Slinking Skirge: Draw a card.
+Power:2
+Toughness:1

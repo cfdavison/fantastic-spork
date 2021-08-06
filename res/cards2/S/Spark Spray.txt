@@ -1,0 +1,9 @@
+Name:Spark Spray
+Mana Cost:{R}
+Supertypes:
+Types:Instant 
+Subtypes:
+Colors:Red 
+OracleText:Spark Spray deals 1 damage to any target.\nCycling {R} ({R}, Discard this card: Draw a card.)
+Power:null
+Toughness:null

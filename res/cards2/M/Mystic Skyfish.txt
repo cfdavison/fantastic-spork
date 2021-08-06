@@ -1,0 +1,9 @@
+Name:Mystic Skyfish
+Mana Cost:{2}{U}
+Supertypes:
+Types:Creature 
+Subtypes:Fish 
+Colors:Blue 
+OracleText:Whenever you draw your second card each turn, Mystic Skyfish gains flying until end of turn.
+Power:3
+Toughness:1

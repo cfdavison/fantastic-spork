@@ -1,0 +1,9 @@
+Name:Bone Dragon
+Mana Cost:{3}{B}{B}
+Supertypes:
+Types:Creature 
+Subtypes:Dragon Skeleton 
+Colors:Black 
+OracleText:Flying\n{3}{B}{B}, Exile seven other cards from your graveyard: Return Bone Dragon from your graveyard to the battlefield tapped.
+Power:5
+Toughness:4

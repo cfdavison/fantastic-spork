@@ -1,0 +1,9 @@
+Name:Mad Auntie
+Mana Cost:{2}{B}
+Supertypes:
+Types:Creature 
+Subtypes:Goblin Shaman 
+Colors:Black 
+OracleText:Other Goblin creatures you control get +1/+1.\n{T}: Regenerate another target Goblin.
+Power:2
+Toughness:2

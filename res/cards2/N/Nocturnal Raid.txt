@@ -1,0 +1,9 @@
+Name:Nocturnal Raid
+Mana Cost:{2}{B}{B}
+Supertypes:
+Types:Instant 
+Subtypes:
+Colors:Black 
+OracleText:Black creatures get +2/+0 until end of turn.
+Power:null
+Toughness:null

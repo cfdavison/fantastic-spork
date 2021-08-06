@@ -1,0 +1,9 @@
+Name:Odric, Master Tactician
+Mana Cost:{2}{W}{W}
+Supertypes:Legendary 
+Types:Creature 
+Subtypes:Human Soldier 
+Colors:White 
+OracleText:First strike (This creature deals combat damage before creatures without first strike.)\nWhenever Odric, Master Tactician and at least three other creatures attack, you choose which creatures block this combat and how those creatures block.
+Power:3
+Toughness:4

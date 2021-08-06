@@ -1,0 +1,9 @@
+Name:Thalakos Lowlands
+Mana Cost:
+Supertypes:
+Types:Land 
+Subtypes:
+Colors:Colorless 
+OracleText:{T}: Add {C}.\n{T}: Add {W} or {U}. Thalakos Lowlands doesn't untap during your next untap step.
+Power:null
+Toughness:null

@@ -1,0 +1,9 @@
+Name:Initiate's Companion
+Mana Cost:{1}{G}
+Supertypes:
+Types:Creature 
+Subtypes:Cat 
+Colors:Green 
+OracleText:Whenever Initiate's Companion deals combat damage to a player, untap target creature or land.
+Power:3
+Toughness:1

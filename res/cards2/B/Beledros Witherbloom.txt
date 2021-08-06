@@ -1,0 +1,9 @@
+Name:Beledros Witherbloom
+Mana Cost:{5}{B}{G}
+Supertypes:Legendary 
+Types:Creature 
+Subtypes:Elder Dragon 
+Colors:Black Green 
+OracleText:Flying\nAt the beginning of each upkeep, create a 1/1 black and green Pest creature token with \
+Power:4
+Toughness:4

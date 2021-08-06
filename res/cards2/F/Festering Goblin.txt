@@ -1,0 +1,9 @@
+Name:Festering Goblin
+Mana Cost:{B}
+Supertypes:
+Types:Creature 
+Subtypes:Zombie Goblin 
+Colors:Black 
+OracleText:When Festering Goblin dies, target creature gets -1/-1 until end of turn.
+Power:1
+Toughness:1

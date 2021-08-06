@@ -1,0 +1,9 @@
+Name:Whiptongue Hydra
+Mana Cost:{5}{G}
+Supertypes:
+Types:Creature 
+Subtypes:Lizard Hydra 
+Colors:Green 
+OracleText:Reach\nWhen Whiptongue Hydra enters the battlefield, destroy all creatures with flying. Put a +1/+1 counter on Whiptongue Hydra for each creature destroyed this way.
+Power:4
+Toughness:4

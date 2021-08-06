@@ -1,0 +1,9 @@
+Name:Mountain
+Mana Cost:
+Supertypes:Basic 
+Types:Land 
+Subtypes:Mountain 
+Colors:Colorless 
+OracleText:({T}: Add {R}.)
+Power:null
+Toughness:null

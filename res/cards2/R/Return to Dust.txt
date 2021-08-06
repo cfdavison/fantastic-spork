@@ -1,0 +1,9 @@
+Name:Return to Dust
+Mana Cost:{2}{W}{W}
+Supertypes:
+Types:Instant 
+Subtypes:
+Colors:White 
+OracleText:Exile target artifact or enchantment. If you cast this spell during your main phase, you may exile up to one other target artifact or enchantment.
+Power:null
+Toughness:null

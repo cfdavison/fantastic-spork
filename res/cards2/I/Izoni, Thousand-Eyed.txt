@@ -1,0 +1,9 @@
+Name:Izoni, Thousand-Eyed
+Mana Cost:{2}{B}{B}{G}{G}
+Supertypes:Legendary 
+Types:Creature 
+Subtypes:Elf Shaman 
+Colors:Black Green 
+OracleText:Undergrowth — When Izoni, Thousand-Eyed enters the battlefield, create a 1/1 black and green Insect creature token for each creature card in your graveyard.\n{B}{G}, Sacrifice another creature: You gain 1 life and draw a card.
+Power:2
+Toughness:3

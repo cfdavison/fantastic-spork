@@ -1,0 +1,9 @@
+Name:Ornithopter
+Mana Cost:{0}
+Supertypes:
+Types:Artifact Creature 
+Subtypes:Thopter 
+Colors:Colorless 
+OracleText:Flying
+Power:0
+Toughness:2

@@ -1,0 +1,9 @@
+Name:Plains
+Mana Cost:
+Supertypes:Basic 
+Types:Land 
+Subtypes:Plains 
+Colors:Colorless 
+OracleText:({T}: Add {W}.)
+Power:null
+Toughness:null

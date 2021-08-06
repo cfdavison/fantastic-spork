@@ -1,0 +1,9 @@
+Name:Coral Eel
+Mana Cost:{1}{U}
+Supertypes:
+Types:Creature 
+Subtypes:Fish 
+Colors:Blue 
+OracleText:
+Power:2
+Toughness:1

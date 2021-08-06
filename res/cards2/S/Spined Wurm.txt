@@ -1,0 +1,9 @@
+Name:Spined Wurm
+Mana Cost:{4}{G}
+Supertypes:
+Types:Creature 
+Subtypes:Wurm 
+Colors:Green 
+OracleText:
+Power:5
+Toughness:4

@@ -1,0 +1,9 @@
+Name:Thornwood Falls
+Mana Cost:
+Supertypes:
+Types:Land 
+Subtypes:
+Colors:Colorless 
+OracleText:Thornwood Falls enters the battlefield tapped.\nWhen Thornwood Falls enters the battlefield, you gain 1 life.\n{T}: Add {G} or {U}.
+Power:null
+Toughness:null

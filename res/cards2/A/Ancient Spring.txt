@@ -1,0 +1,9 @@
+Name:Ancient Spring
+Mana Cost:
+Supertypes:
+Types:Land 
+Subtypes:
+Colors:Colorless 
+OracleText:Ancient Spring enters the battlefield tapped.\n{T}: Add {U}.\n{T}, Sacrifice Ancient Spring: Add {W}{B}.
+Power:null
+Toughness:null

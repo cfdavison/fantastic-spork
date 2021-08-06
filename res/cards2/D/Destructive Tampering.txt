@@ -1,0 +1,9 @@
+Name:Destructive Tampering
+Mana Cost:{2}{R}
+Supertypes:
+Types:Sorcery 
+Subtypes:
+Colors:Red 
+OracleText:Choose one —\n• Destroy target artifact.\n• Creatures without flying can't block this turn.
+Power:null
+Toughness:null

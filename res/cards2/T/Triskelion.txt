@@ -1,0 +1,9 @@
+Name:Triskelion
+Mana Cost:{6}
+Supertypes:
+Types:Artifact Creature 
+Subtypes:Construct 
+Colors:Colorless 
+OracleText:Triskelion enters the battlefield with three +1/+1 counters on it.\nRemove a +1/+1 counter from Triskelion: It deals 1 damage to any target.
+Power:1
+Toughness:1

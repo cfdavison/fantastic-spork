@@ -1,0 +1,9 @@
+Name:Spread the Sickness
+Mana Cost:{4}{B}
+Supertypes:
+Types:Sorcery 
+Subtypes:
+Colors:Black 
+OracleText:Destroy target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Power:null
+Toughness:null

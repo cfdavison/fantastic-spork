@@ -1,0 +1,9 @@
+Name:Novice Knight
+Mana Cost:{W}
+Supertypes:
+Types:Creature 
+Subtypes:Human Knight 
+Colors:White 
+OracleText:Defender (This creature can't attack.)\nAs long as Novice Knight is enchanted or equipped, it can attack as though it didn't have defender.
+Power:2
+Toughness:3

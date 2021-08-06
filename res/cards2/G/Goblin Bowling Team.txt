@@ -1,0 +1,9 @@
+Name:Goblin Bowling Team
+Mana Cost:{3}{R}
+Supertypes:
+Types:Creature 
+Subtypes:Goblin 
+Colors:Red 
+OracleText:If Goblin Bowling Team would deal damage to a permanent or player, it deals that much damage plus the result of a six-sided die roll to that permanent or player instead.
+Power:1
+Toughness:1

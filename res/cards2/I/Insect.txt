@@ -1,0 +1,9 @@
+Name:Insect
+Mana Cost:
+Supertypes:
+Types:Creature 
+Subtypes:Insect 
+Colors:Green 
+OracleText:
+Power:1
+Toughness:1

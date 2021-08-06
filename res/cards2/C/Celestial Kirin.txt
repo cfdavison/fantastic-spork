@@ -1,0 +1,9 @@
+Name:Celestial Kirin
+Mana Cost:{2}{W}{W}
+Supertypes:Legendary 
+Types:Creature 
+Subtypes:Kirin Spirit 
+Colors:White 
+OracleText:Flying\nWhenever you cast a Spirit or Arcane spell, destroy all permanents with that spell's mana value.
+Power:3
+Toughness:3

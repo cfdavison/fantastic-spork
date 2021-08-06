@@ -1,0 +1,9 @@
+Name:Duelist's Heritage
+Mana Cost:{2}{W}
+Supertypes:
+Types:Enchantment 
+Subtypes:
+Colors:White 
+OracleText:Whenever one or more creatures attack, you may have target attacking creature gain double strike until end of turn.
+Power:null
+Toughness:null

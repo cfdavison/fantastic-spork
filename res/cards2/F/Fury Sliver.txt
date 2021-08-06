@@ -1,0 +1,9 @@
+Name:Fury Sliver
+Mana Cost:{5}{R}
+Supertypes:
+Types:Creature 
+Subtypes:Sliver 
+Colors:Red 
+OracleText:All Sliver creatures have double strike.
+Power:3
+Toughness:3

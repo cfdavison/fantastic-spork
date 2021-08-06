@@ -1,0 +1,9 @@
+Name:Edric, Spymaster of Trest
+Mana Cost:{1}{G}{U}
+Supertypes:Legendary 
+Types:Creature 
+Subtypes:Elf Rogue 
+Colors:Green Blue 
+OracleText:Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.
+Power:2
+Toughness:2

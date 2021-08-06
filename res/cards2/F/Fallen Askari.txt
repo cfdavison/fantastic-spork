@@ -1,0 +1,9 @@
+Name:Fallen Askari
+Mana Cost:{1}{B}
+Supertypes:
+Types:Creature 
+Subtypes:Human Knight 
+Colors:Black 
+OracleText:Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nFallen Askari can't block.
+Power:2
+Toughness:2

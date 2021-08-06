@@ -1,0 +1,9 @@
+Name:Bronze Horse
+Mana Cost:{7}
+Supertypes:
+Types:Artifact Creature 
+Subtypes:Horse 
+Colors:Colorless 
+OracleText:Trample\nAs long as you control another creature, prevent all damage that would be dealt to Bronze Horse by spells that target it.
+Power:4
+Toughness:4

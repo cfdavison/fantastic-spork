@@ -1,0 +1,9 @@
+Name:Siren Lookout
+Mana Cost:{2}{U}
+Supertypes:
+Types:Creature 
+Subtypes:Siren Pirate 
+Colors:Blue 
+OracleText:Flying\nWhen Siren Lookout enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
+Power:1
+Toughness:2

@@ -1,0 +1,9 @@
+Name:Digsite Engineer
+Mana Cost:{2}{W}
+Supertypes:
+Types:Creature 
+Subtypes:Dwarf Artificer 
+Colors:White 
+OracleText:Whenever you cast an artifact spell, you may pay {2}. If you do, create a 0/0 colorless Construct artifact creature token with \
+Power:3
+Toughness:3

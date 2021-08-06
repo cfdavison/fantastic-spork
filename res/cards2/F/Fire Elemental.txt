@@ -1,0 +1,9 @@
+Name:Fire Elemental
+Mana Cost:{3}{R}{R}
+Supertypes:
+Types:Creature 
+Subtypes:Elemental 
+Colors:Red 
+OracleText:
+Power:5
+Toughness:4

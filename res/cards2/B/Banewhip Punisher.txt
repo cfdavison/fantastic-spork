@@ -1,0 +1,9 @@
+Name:Banewhip Punisher
+Mana Cost:{2}{B}
+Supertypes:
+Types:Creature 
+Subtypes:Human Warrior 
+Colors:Black 
+OracleText:When Banewhip Punisher enters the battlefield, you may put a -1/-1 counter on target creature.\n{B}, Sacrifice Banewhip Punisher: Destroy target creature that has a -1/-1 counter on it.
+Power:2
+Toughness:2

@@ -1,0 +1,9 @@
+Name:Kor Entanglers
+Mana Cost:{4}{W}
+Supertypes:
+Types:Creature 
+Subtypes:Kor Soldier Ally 
+Colors:White 
+OracleText:Rally — Whenever Kor Entanglers or another Ally enters the battlefield under your control, tap target creature an opponent controls.
+Power:3
+Toughness:4

@@ -1,0 +1,9 @@
+Name:Island
+Mana Cost:
+Supertypes:Basic 
+Types:Land 
+Subtypes:Island 
+Colors:Colorless 
+OracleText:({T}: Add {U}.)
+Power:null
+Toughness:null

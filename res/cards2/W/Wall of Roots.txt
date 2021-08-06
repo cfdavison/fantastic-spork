@@ -1,0 +1,9 @@
+Name:Wall of Roots
+Mana Cost:{1}{G}
+Supertypes:
+Types:Creature 
+Subtypes:Plant Wall 
+Colors:Green 
+OracleText:Defender\nPut a -0/-1 counter on Wall of Roots: Add {G}. Activate only once each turn.
+Power:0
+Toughness:5

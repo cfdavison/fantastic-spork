@@ -1,0 +1,9 @@
+Name:Mwonvuli Beast Tracker
+Mana Cost:{1}{G}{G}
+Supertypes:
+Types:Creature 
+Subtypes:Human Scout 
+Colors:Green 
+OracleText:When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle and put that card on top.
+Power:2
+Toughness:1

@@ -1,0 +1,9 @@
+Name:Jasmine Boreal
+Mana Cost:{3}{G}{W}
+Supertypes:Legendary 
+Types:Creature 
+Subtypes:Human 
+Colors:Green White 
+OracleText:
+Power:4
+Toughness:5

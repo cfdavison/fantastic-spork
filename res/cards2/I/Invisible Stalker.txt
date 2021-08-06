@@ -1,0 +1,9 @@
+Name:Invisible Stalker
+Mana Cost:{1}{U}
+Supertypes:
+Types:Creature 
+Subtypes:Human Rogue 
+Colors:Blue 
+OracleText:Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nInvisible Stalker can't be blocked.
+Power:1
+Toughness:1

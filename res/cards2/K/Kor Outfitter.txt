@@ -1,0 +1,9 @@
+Name:Kor Outfitter
+Mana Cost:{W}{W}
+Supertypes:
+Types:Creature 
+Subtypes:Kor Soldier 
+Colors:White 
+OracleText:When Kor Outfitter enters the battlefield, you may attach target Equipment you control to target creature you control.
+Power:2
+Toughness:2

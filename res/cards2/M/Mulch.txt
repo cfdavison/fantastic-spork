@@ -1,0 +1,9 @@
+Name:Mulch
+Mana Cost:{1}{G}
+Supertypes:
+Types:Sorcery 
+Subtypes:
+Colors:Green 
+OracleText:Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.
+Power:null
+Toughness:null

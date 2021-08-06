@@ -1,0 +1,9 @@
+Name:Birds of Paradise
+Mana Cost:{G}
+Supertypes:
+Types:Creature 
+Subtypes:Bird 
+Colors:Green 
+OracleText:Flying\n{T}: Add one mana of any color.
+Power:0
+Toughness:1

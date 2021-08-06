@@ -1,0 +1,9 @@
+Name:Survival of the Fittest
+Mana Cost:{1}{G}
+Supertypes:
+Types:Enchantment 
+Subtypes:
+Colors:Green 
+OracleText:{G}, Discard a creature card: Search your library for a creature card, reveal that card, put it into your hand, then shuffle.
+Power:null
+Toughness:null

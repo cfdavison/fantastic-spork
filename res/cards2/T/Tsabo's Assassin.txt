@@ -1,0 +1,9 @@
+Name:Tsabo's Assassin
+Mana Cost:{2}{B}{B}
+Supertypes:
+Types:Creature 
+Subtypes:Phyrexian Zombie Assassin 
+Colors:Black 
+OracleText:{T}: Destroy target creature if it shares a color with the most common color among all permanents or a color tied for most common. A creature destroyed this way can't be regenerated.
+Power:1
+Toughness:1

@@ -1,0 +1,9 @@
+Name:Phyresis
+Mana Cost:{1}{B}
+Supertypes:
+Types:Enchantment 
+Subtypes:Aura 
+Colors:Black 
+OracleText:Enchant creature\nEnchanted creature has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Power:null
+Toughness:null

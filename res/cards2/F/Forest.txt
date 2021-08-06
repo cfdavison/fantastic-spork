@@ -1,0 +1,9 @@
+Name:Forest
+Mana Cost:
+Supertypes:Basic 
+Types:Land 
+Subtypes:Forest 
+Colors:Colorless 
+OracleText:({T}: Add {G}.)
+Power:null
+Toughness:null

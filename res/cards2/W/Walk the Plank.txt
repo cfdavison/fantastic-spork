@@ -1,0 +1,9 @@
+Name:Walk the Plank
+Mana Cost:{B}{B}
+Supertypes:
+Types:Sorcery 
+Subtypes:
+Colors:Black 
+OracleText:Destroy target non-Merfolk creature.
+Power:null
+Toughness:null

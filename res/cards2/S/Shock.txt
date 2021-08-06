@@ -1,0 +1,9 @@
+Name:Shock
+Mana Cost:{R}
+Supertypes:
+Types:Instant 
+Subtypes:
+Colors:Red 
+OracleText:Shock deals 2 damage to any target.
+Power:null
+Toughness:null

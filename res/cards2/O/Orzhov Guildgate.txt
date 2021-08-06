@@ -1,0 +1,9 @@
+Name:Orzhov Guildgate
+Mana Cost:
+Supertypes:
+Types:Land 
+Subtypes:Gate 
+Colors:Colorless 
+OracleText:Orzhov Guildgate enters the battlefield tapped.\n{T}: Add {W} or {B}.
+Power:null
+Toughness:null

@@ -1,0 +1,9 @@
+Name:World Breaker
+Mana Cost:{6}{G}
+Supertypes:
+Types:Creature 
+Subtypes:Eldrazi 
+Colors:Colorless 
+OracleText:Devoid (This card has no color.)\nWhen you cast this spell, exile target artifact, enchantment, or land.\nReach\n{2}{C}, Sacrifice a land: Return World Breaker from your graveyard to your hand. ({C} represents colorless mana.)
+Power:5
+Toughness:7

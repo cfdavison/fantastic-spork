@@ -1,0 +1,9 @@
+Name:Wall of Vipers
+Mana Cost:{2}{B}
+Supertypes:
+Types:Creature 
+Subtypes:Snake Wall 
+Colors:Black 
+OracleText:Defender (This creature can't attack.)\n{3}: Destroy Wall of Vipers and target creature it's blocking. Any player may activate this ability.
+Power:2
+Toughness:4

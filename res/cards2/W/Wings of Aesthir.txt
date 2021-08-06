@@ -1,0 +1,9 @@
+Name:Wings of Aesthir
+Mana Cost:{W}{U}
+Supertypes:
+Types:Enchantment 
+Subtypes:Aura 
+Colors:Blue White 
+OracleText:Enchant creature\nEnchanted creature gets +1/+0 and has flying and first strike.
+Power:null
+Toughness:null

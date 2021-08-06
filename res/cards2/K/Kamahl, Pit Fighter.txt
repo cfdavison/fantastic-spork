@@ -1,0 +1,9 @@
+Name:Kamahl, Pit Fighter
+Mana Cost:{4}{R}{R}
+Supertypes:Legendary 
+Types:Creature 
+Subtypes:Human Barbarian 
+Colors:Red 
+OracleText:Haste (This creature can attack and {T} as soon as it comes under your control.)\n{T}: Kamahl, Pit Fighter deals 3 damage to any target.
+Power:6
+Toughness:1

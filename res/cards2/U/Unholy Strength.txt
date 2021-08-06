@@ -1,0 +1,9 @@
+Name:Unholy Strength
+Mana Cost:{B}
+Supertypes:
+Types:Enchantment 
+Subtypes:Aura 
+Colors:Black 
+OracleText:Enchant creature\nEnchanted creature gets +2/+1.
+Power:null
+Toughness:null

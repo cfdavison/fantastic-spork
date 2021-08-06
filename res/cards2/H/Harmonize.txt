@@ -1,0 +1,9 @@
+Name:Harmonize
+Mana Cost:{2}{G}{G}
+Supertypes:
+Types:Sorcery 
+Subtypes:
+Colors:Green 
+OracleText:Draw three cards.
+Power:null
+Toughness:null

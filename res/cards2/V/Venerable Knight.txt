@@ -1,0 +1,9 @@
+Name:Venerable Knight
+Mana Cost:{W}
+Supertypes:
+Types:Creature 
+Subtypes:Human Knight 
+Colors:White 
+OracleText:When Venerable Knight dies, put a +1/+1 counter on target Knight you control.
+Power:2
+Toughness:1

@@ -1,0 +1,9 @@
+Name:Lazav, Dimir Mastermind
+Mana Cost:{U}{U}{B}{B}
+Supertypes:Legendary 
+Types:Creature 
+Subtypes:Shapeshifter 
+Colors:Black Blue 
+OracleText:Hexproof\nWhenever a creature card is put into an opponent's graveyard from anywhere, you may have Lazav, Dimir Mastermind become a copy of that card, except its name is Lazav, Dimir Mastermind, it's legendary in addition to its other types, and it has hexproof and this ability.
+Power:3
+Toughness:3

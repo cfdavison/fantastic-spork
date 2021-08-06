@@ -1,0 +1,9 @@
+Name:Sengir Vampire
+Mana Cost:{3}{B}{B}
+Supertypes:
+Types:Creature 
+Subtypes:Vampire 
+Colors:Black 
+OracleText:Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+Power:4
+Toughness:4

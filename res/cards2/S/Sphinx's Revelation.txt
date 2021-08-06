@@ -1,0 +1,9 @@
+Name:Sphinx's Revelation
+Mana Cost:{X}{W}{U}{U}
+Supertypes:
+Types:Instant 
+Subtypes:
+Colors:Blue White 
+OracleText:You gain X life and draw X cards.
+Power:null
+Toughness:null

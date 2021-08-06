@@ -1,0 +1,9 @@
+Name:Floodbringer
+Mana Cost:{1}{U}
+Supertypes:
+Types:Creature 
+Subtypes:Moonfolk Wizard 
+Colors:Blue 
+OracleText:Flying\n{2}, Return a land you control to its owner's hand: Tap target land.
+Power:1
+Toughness:2

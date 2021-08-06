@@ -1,0 +1,9 @@
+Name:Snapdax, Apex of the Hunt
+Mana Cost:{1}{R}{W}{B}
+Supertypes:Legendary 
+Types:Creature 
+Subtypes:Dinosaur Cat Nightmare 
+Colors:Black Red White 
+OracleText:Mutate {2}{B/R}{W}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)\nDouble strike\nWhenever this creature mutates, it deals 4 damage to target creature or planeswalker an opponent controls and you gain 4 life.
+Power:3
+Toughness:5

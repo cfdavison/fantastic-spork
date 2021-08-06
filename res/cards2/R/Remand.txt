@@ -1,0 +1,9 @@
+Name:Remand
+Mana Cost:{1}{U}
+Supertypes:
+Types:Instant 
+Subtypes:
+Colors:Blue 
+OracleText:Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.\nDraw a card.
+Power:null
+Toughness:null
